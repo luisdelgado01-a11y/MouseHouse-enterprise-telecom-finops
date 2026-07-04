@@ -1,0 +1,73 @@
+service_area,period,amount,cost_center,gl_account
+Cloud Connectivity,2025-01-01,39017.44,CC-000,6100-Telecom
+Cloud Connectivity,2025-02-01,39430.94,CC-000,6100-Telecom
+Cloud Connectivity,2025-03-01,40530.020000000004,CC-000,6100-Telecom
+Cloud Connectivity,2025-04-01,39592.23,CC-000,6100-Telecom
+Cloud Connectivity,2025-05-01,39606.43,CC-000,6100-Telecom
+Cloud Connectivity,2025-06-01,40692.58,CC-000,6100-Telecom
+Cloud Connectivity,2025-07-01,40110.26,CC-000,6100-Telecom
+Cloud Connectivity,2025-08-01,40348.04,CC-000,6100-Telecom
+Cloud Connectivity,2025-09-01,39071.68,CC-000,6100-Telecom
+Cloud Connectivity,2025-10-01,39796.04,CC-000,6100-Telecom
+Cloud Connectivity,2025-11-01,40420.9,CC-000,6100-Telecom
+Cloud Connectivity,2025-12-01,39606.43,CC-000,6100-Telecom
+Contact Center,2025-01-01,31800.82,CC-001,6100-Telecom
+Contact Center,2025-02-01,30380.73,CC-001,6100-Telecom
+Contact Center,2025-03-01,31671.63,CC-001,6100-Telecom
+Contact Center,2025-04-01,29884.34,CC-001,6100-Telecom
+Contact Center,2025-05-01,29610.69,CC-001,6100-Telecom
+Contact Center,2025-06-01,32046.09,CC-001,6100-Telecom
+Contact Center,2025-07-01,30478.0,CC-001,6100-Telecom
+Contact Center,2025-08-01,31517.64,CC-001,6100-Telecom
+Contact Center,2025-09-01,30124.29,CC-001,6100-Telecom
+Contact Center,2025-10-01,30971.33,CC-001,6100-Telecom
+Contact Center,2025-11-01,31409.43,CC-001,6100-Telecom
+Contact Center,2025-12-01,29340.82,CC-001,6100-Telecom
+Data Center Net,2025-01-01,50588.28,CC-002,6100-Telecom
+Data Center Net,2025-02-01,52848.97,CC-002,6100-Telecom
+Data Center Net,2025-03-01,50820.89,CC-002,6100-Telecom
+Data Center Net,2025-04-01,53742.43,CC-002,6100-Telecom
+Data Center Net,2025-05-01,51298.23,CC-002,6100-Telecom
+Data Center Net,2025-06-01,51418.09,CC-002,6100-Telecom
+Data Center Net,2025-07-01,51822.07,CC-002,6100-Telecom
+Data Center Net,2025-08-01,54096.08,CC-002,6100-Telecom
+Data Center Net,2025-09-01,54587.33,CC-002,6100-Telecom
+Data Center Net,2025-10-01,51832.58,CC-002,6100-Telecom
+Data Center Net,2025-11-01,50772.23,CC-002,6100-Telecom
+Data Center Net,2025-12-01,53275.8,CC-002,6100-Telecom
+Voice/UCaaS,2025-01-01,53707.23,CC-003,6100-Telecom
+Voice/UCaaS,2025-02-01,54643.29,CC-003,6100-Telecom
+Voice/UCaaS,2025-03-01,53191.67,CC-003,6100-Telecom
+Voice/UCaaS,2025-04-01,53640.08,CC-003,6100-Telecom
+Voice/UCaaS,2025-05-01,52496.94,CC-003,6100-Telecom
+Voice/UCaaS,2025-06-01,53289.82,CC-003,6100-Telecom
+Voice/UCaaS,2025-07-01,54071.34,CC-003,6100-Telecom
+Voice/UCaaS,2025-08-01,54119.23,CC-003,6100-Telecom
+Voice/UCaaS,2025-09-01,53993.25,CC-003,6100-Telecom
+Voice/UCaaS,2025-10-01,53239.94,CC-003,6100-Telecom
+Voice/UCaaS,2025-11-01,53177.87,CC-003,6100-Telecom
+Voice/UCaaS,2025-12-01,58407.28,CC-003,6100-Telecom
+WAN/Circuits,2025-01-01,41486.29,CC-004,6100-Telecom
+WAN/Circuits,2025-02-01,40179.63,CC-004,6100-Telecom
+WAN/Circuits,2025-03-01,38710.24,CC-004,6100-Telecom
+WAN/Circuits,2025-04-01,39024.22,CC-004,6100-Telecom
+WAN/Circuits,2025-05-01,39342.979999999996,CC-004,6100-Telecom
+WAN/Circuits,2025-06-01,38977.479999999996,CC-004,6100-Telecom
+WAN/Circuits,2025-07-01,38675.72,CC-004,6100-Telecom
+WAN/Circuits,2025-08-01,38289.62,CC-004,6100-Telecom
+WAN/Circuits,2025-09-01,39298.65,CC-004,6100-Telecom
+WAN/Circuits,2025-10-01,39449.88,CC-004,6100-Telecom
+WAN/Circuits,2025-11-01,38191.2,CC-004,6100-Telecom
+WAN/Circuits,2025-12-01,39421.03,CC-004,6100-Telecom
+Wireless/Mobile,2025-01-01,34879.7,CC-005,6100-Telecom
+Wireless/Mobile,2025-02-01,35037.11,CC-005,6100-Telecom
+Wireless/Mobile,2025-03-01,34447.48,CC-005,6100-Telecom
+Wireless/Mobile,2025-04-01,35710.29,CC-005,6100-Telecom
+Wireless/Mobile,2025-05-01,35741.02,CC-005,6100-Telecom
+Wireless/Mobile,2025-06-01,33924.93,CC-005,6100-Telecom
+Wireless/Mobile,2025-07-01,34392.07,CC-005,6100-Telecom
+Wireless/Mobile,2025-08-01,34435.13,CC-005,6100-Telecom
+Wireless/Mobile,2025-09-01,33631.78,CC-005,6100-Telecom
+Wireless/Mobile,2025-10-01,34754.26,CC-005,6100-Telecom
+Wireless/Mobile,2025-11-01,33631.78,CC-005,6100-Telecom
+Wireless/Mobile,2025-12-01,35603.33,CC-005,6100-Telecom

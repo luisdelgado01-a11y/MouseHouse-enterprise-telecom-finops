@@ -1,0 +1,321 @@
+ci_id,service_area,site,vendor,ci_type,install_date,monthly_cost,status
+CI-0000,WAN/Circuits,SITE-07,Cascade Mobile,Circuit,2023-08-24,1095.31,Active
+CI-0001,Data Center Net,SITE-03,Atlas Fiber,Switch,2023-08-23,829.81,Active
+CI-0002,Cloud Connectivity,SITE-13,Atlas Fiber,Mobile Plan,2021-12-09,1190.71,Active
+CI-0003,Voice/UCaaS,SITE-19,BlueRidge Comms,Router,2023-12-12,1004.11,Active
+CI-0004,Voice/UCaaS,SITE-20,Cascade Mobile,Mobile Plan,2021-11-18,709.4,Active
+CI-0005,Contact Center,SITE-05,Meridian Networks,Firewall,2020-03-29,1008.76,Decommissioned
+CI-0006,WAN/Circuits,SITE-05,BlueRidge Comms,Firewall,2024-06-22,1066.65,Active
+CI-0007,Data Center Net,SITE-01,BlueRidge Comms,Router,2021-02-26,738.95,Active
+CI-0008,Wireless/Mobile,SITE-03,Atlas Fiber,Mobile Plan,2020-07-02,949.59,Active
+CI-0009,WAN/Circuits,SITE-12,Atlas Fiber,Circuit,2023-01-24,1254.82,Active
+CI-0010,Cloud Connectivity,SITE-11,BlueRidge Comms,Router,2021-02-24,632.52,Active
+CI-0011,Contact Center,SITE-08,Cascade Mobile,Switch,2024-03-24,640.45,Active
+CI-0012,Data Center Net,SITE-07,Meridian Networks,Switch,2022-03-09,1757.9,Active
+CI-0013,Data Center Net,SITE-17,Atlas Fiber,Switch,2020-01-09,998.32,Active
+CI-0014,Data Center Net,SITE-10,BlueRidge Comms,Circuit,2024-09-09,709.95,Active
+CI-0015,Data Center Net,SITE-17,BlueRidge Comms,Router,2022-07-15,1195.3,Active
+CI-0016,Cloud Connectivity,SITE-20,Cascade Mobile,Circuit,2021-04-18,1184.64,Decommissioned
+CI-0017,WAN/Circuits,SITE-07,Cascade Mobile,Firewall,2023-05-04,967.81,Active
+CI-0018,Contact Center,SITE-05,NorthStar Telecom,Switch,2022-08-13,1021.73,Active
+CI-0019,Voice/UCaaS,SITE-20,Meridian Networks,Firewall,2020-02-23,1122.95,Decommissioned
+CI-0020,Cloud Connectivity,SITE-13,NorthStar Telecom,Firewall,2023-09-29,661.83,Active
+CI-0021,Voice/UCaaS,SITE-06,Cascade Mobile,SBC,2021-12-23,1004.58,Decommissioned
+CI-0022,Wireless/Mobile,SITE-13,NorthStar Telecom,Firewall,2023-06-13,815.7,Active
+CI-0023,Contact Center,SITE-11,Meridian Networks,Firewall,2024-05-31,1467.31,Active
+CI-0024,Data Center Net,SITE-19,BlueRidge Comms,Firewall,2023-01-04,1156.83,Active
+CI-0025,Cloud Connectivity,SITE-06,Cascade Mobile,Firewall,2023-04-23,641.44,Active
+CI-0026,Voice/UCaaS,SITE-20,BlueRidge Comms,Firewall,2021-04-03,1005.3,Active
+CI-0027,Data Center Net,SITE-19,Atlas Fiber,Router,2021-03-03,775.71,Active
+CI-0028,Cloud Connectivity,SITE-04,Atlas Fiber,Router,2022-01-17,1180.55,Active
+CI-0029,Voice/UCaaS,SITE-04,NorthStar Telecom,SBC,2024-03-15,789.81,Decommissioned
+CI-0030,Voice/UCaaS,SITE-11,Atlas Fiber,Switch,2022-08-01,1014.79,Active
+CI-0031,Wireless/Mobile,SITE-01,Cascade Mobile,Firewall,2021-09-18,978.73,Active
+CI-0032,WAN/Circuits,SITE-06,Cascade Mobile,Router,2023-11-04,879.58,Active
+CI-0033,Cloud Connectivity,SITE-09,NorthStar Telecom,Switch,2024-03-16,1056.9,Active
+CI-0034,Contact Center,SITE-20,Cascade Mobile,Firewall,2024-06-12,1087.23,Active
+CI-0035,WAN/Circuits,SITE-20,Cascade Mobile,Firewall,2021-06-22,987.17,Active
+CI-0036,Contact Center,SITE-04,BlueRidge Comms,Firewall,2023-07-01,1107.81,Active
+CI-0037,Data Center Net,SITE-18,NorthStar Telecom,Switch,2022-11-28,1249.55,Active
+CI-0038,Wireless/Mobile,SITE-02,BlueRidge Comms,Mobile Plan,2022-03-19,894.14,Active
+CI-0039,Cloud Connectivity,SITE-15,Atlas Fiber,Firewall,2021-12-15,954.19,Active
+CI-0040,WAN/Circuits,SITE-17,Cascade Mobile,SBC,2020-07-25,637.86,Decommissioned
+CI-0041,Data Center Net,SITE-18,NorthStar Telecom,SBC,2021-05-09,1131.5,Active
+CI-0042,Data Center Net,SITE-05,Atlas Fiber,Firewall,2022-09-16,957.74,Active
+CI-0043,Voice/UCaaS,SITE-18,Atlas Fiber,Mobile Plan,2024-05-14,887.02,Decommissioned
+CI-0044,WAN/Circuits,SITE-03,NorthStar Telecom,Circuit,2024-04-08,689.27,Active
+CI-0045,Contact Center,SITE-11,Atlas Fiber,Mobile Plan,2020-12-03,1190.48,Decommissioned
+CI-0046,Voice/UCaaS,SITE-10,BlueRidge Comms,Mobile Plan,2023-05-07,878.85,Decommissioned
+CI-0047,Contact Center,SITE-07,BlueRidge Comms,Firewall,2020-06-01,1060.03,Decommissioned
+CI-0048,Data Center Net,SITE-01,BlueRidge Comms,SBC,2023-04-30,724.11,Decommissioned
+CI-0049,Data Center Net,SITE-16,Cascade Mobile,Firewall,2021-09-07,1235.78,Active
+CI-0050,Data Center Net,SITE-07,Atlas Fiber,Router,2022-03-20,742.42,Active
+CI-0051,Wireless/Mobile,SITE-14,Cascade Mobile,SBC,2023-07-15,755.71,Active
+CI-0052,Voice/UCaaS,SITE-09,Atlas Fiber,Router,2022-02-03,1171.16,Active
+CI-0053,Voice/UCaaS,SITE-08,Atlas Fiber,Router,2023-12-24,1204.93,Active
+CI-0054,Voice/UCaaS,SITE-18,NorthStar Telecom,Firewall,2022-08-18,763.65,Active
+CI-0055,WAN/Circuits,SITE-02,Meridian Networks,Mobile Plan,2024-12-02,1296.36,Decommissioned
+CI-0056,Cloud Connectivity,SITE-15,Cascade Mobile,Switch,2023-02-22,1092.1,Active
+CI-0057,WAN/Circuits,SITE-15,BlueRidge Comms,Switch,2021-06-17,1183.37,Active
+CI-0058,Data Center Net,SITE-08,NorthStar Telecom,Circuit,2023-10-27,868.8,Active
+CI-0059,Data Center Net,SITE-06,NorthStar Telecom,Circuit,2022-01-04,955.72,Decommissioned
+CI-0060,Contact Center,SITE-01,BlueRidge Comms,Circuit,2022-08-19,1097.28,Active
+CI-0061,Data Center Net,SITE-19,Cascade Mobile,Circuit,2020-09-03,1090.62,Active
+CI-0062,Voice/UCaaS,SITE-19,NorthStar Telecom,Mobile Plan,2020-08-02,1123.26,Active
+CI-0063,Contact Center,SITE-05,NorthStar Telecom,Mobile Plan,2022-10-31,989.06,Decommissioned
+CI-0064,Voice/UCaaS,SITE-01,NorthStar Telecom,SBC,2020-12-02,695.91,Decommissioned
+CI-0065,Wireless/Mobile,SITE-03,BlueRidge Comms,Circuit,2024-11-30,1199.5,Active
+CI-0066,Contact Center,SITE-02,NorthStar Telecom,Circuit,2024-03-20,1175.31,Active
+CI-0067,Voice/UCaaS,SITE-17,BlueRidge Comms,Router,2023-06-15,1132.8,Active
+CI-0068,WAN/Circuits,SITE-18,BlueRidge Comms,Firewall,2023-08-15,692.91,Active
+CI-0069,Voice/UCaaS,SITE-04,BlueRidge Comms,Switch,2022-12-07,758.77,Active
+CI-0070,Data Center Net,SITE-15,Cascade Mobile,Switch,2020-04-18,1098.47,Active
+CI-0071,Wireless/Mobile,SITE-04,BlueRidge Comms,Router,2021-12-07,644.58,Active
+CI-0072,Voice/UCaaS,SITE-08,Cascade Mobile,SBC,2022-06-11,1246.91,Active
+CI-0073,WAN/Circuits,SITE-12,Cascade Mobile,Router,2024-07-05,867.6,Active
+CI-0074,Data Center Net,SITE-15,Atlas Fiber,Circuit,2021-01-30,1083.17,Active
+CI-0075,Voice/UCaaS,SITE-18,Cascade Mobile,SBC,2022-06-13,1189.17,Active
+CI-0076,Wireless/Mobile,SITE-01,BlueRidge Comms,Mobile Plan,2021-09-11,878.62,Active
+CI-0077,Wireless/Mobile,SITE-04,BlueRidge Comms,Circuit,2020-08-29,831.05,Active
+CI-0078,Cloud Connectivity,SITE-06,Meridian Networks,Switch,2020-07-04,1418.91,Decommissioned
+CI-0079,Data Center Net,SITE-07,BlueRidge Comms,SBC,2021-10-19,996.02,Decommissioned
+CI-0080,Contact Center,SITE-20,NorthStar Telecom,SBC,2020-05-28,887.76,Active
+CI-0081,Voice/UCaaS,SITE-16,Atlas Fiber,Mobile Plan,2020-04-30,1009.12,Active
+CI-0082,WAN/Circuits,SITE-07,Atlas Fiber,Switch,2021-09-23,1219.29,Active
+CI-0083,Data Center Net,SITE-20,NorthStar Telecom,Switch,2020-12-29,924.61,Active
+CI-0084,Cloud Connectivity,SITE-10,Cascade Mobile,SBC,2022-09-25,753.95,Active
+CI-0085,Data Center Net,SITE-11,NorthStar Telecom,Circuit,2020-02-01,867.64,Decommissioned
+CI-0086,WAN/Circuits,SITE-09,Cascade Mobile,Router,2021-06-27,878.29,Active
+CI-0087,Wireless/Mobile,SITE-03,NorthStar Telecom,Firewall,2022-03-26,712.6,Active
+CI-0088,Data Center Net,SITE-19,BlueRidge Comms,SBC,2024-09-29,732.61,Active
+CI-0089,Data Center Net,SITE-01,Cascade Mobile,Circuit,2023-02-16,1061.27,Active
+CI-0090,Voice/UCaaS,SITE-04,Cascade Mobile,Firewall,2024-05-04,843.87,Active
+CI-0091,Data Center Net,SITE-05,BlueRidge Comms,Switch,2021-09-09,1231.59,Decommissioned
+CI-0092,Contact Center,SITE-06,Atlas Fiber,Firewall,2022-03-20,783.47,Active
+CI-0093,Voice/UCaaS,SITE-03,Cascade Mobile,Mobile Plan,2022-01-26,692.32,Decommissioned
+CI-0094,Contact Center,SITE-01,Meridian Networks,Circuit,2024-05-16,1546.59,Active
+CI-0095,Wireless/Mobile,SITE-14,Cascade Mobile,Mobile Plan,2024-09-22,1185.05,Active
+CI-0096,Wireless/Mobile,SITE-20,Cascade Mobile,Switch,2024-09-28,805.21,Active
+CI-0097,Data Center Net,SITE-03,Meridian Networks,SBC,2023-09-15,1060.24,Decommissioned
+CI-0098,Cloud Connectivity,SITE-06,Cascade Mobile,Switch,2022-06-24,747.03,Active
+CI-0099,WAN/Circuits,SITE-11,Atlas Fiber,Router,2022-08-31,958.87,Active
+CI-0100,Data Center Net,SITE-19,Atlas Fiber,SBC,2024-10-30,925.1,Active
+CI-0101,Wireless/Mobile,SITE-14,Cascade Mobile,SBC,2021-05-27,793.45,Active
+CI-0102,Data Center Net,SITE-16,Cascade Mobile,Circuit,2021-09-16,658.46,Active
+CI-0103,WAN/Circuits,SITE-12,Meridian Networks,SBC,2024-06-02,1306.68,Active
+CI-0104,Data Center Net,SITE-09,Cascade Mobile,SBC,2021-11-26,1234.38,Active
+CI-0105,Data Center Net,SITE-04,Meridian Networks,Switch,2021-02-27,1457.52,Active
+CI-0106,Data Center Net,SITE-18,BlueRidge Comms,Mobile Plan,2022-10-05,942.17,Active
+CI-0107,Cloud Connectivity,SITE-17,Meridian Networks,Firewall,2021-08-08,979.63,Decommissioned
+CI-0108,Voice/UCaaS,SITE-01,Meridian Networks,Switch,2024-05-22,1104.65,Active
+CI-0109,Data Center Net,SITE-15,NorthStar Telecom,Circuit,2024-06-24,815.71,Active
+CI-0110,Wireless/Mobile,SITE-02,Atlas Fiber,SBC,2021-07-04,1111.83,Active
+CI-0111,Data Center Net,SITE-15,NorthStar Telecom,Router,2022-08-11,1182.33,Decommissioned
+CI-0112,Cloud Connectivity,SITE-17,NorthStar Telecom,SBC,2024-11-06,1198.03,Active
+CI-0113,Voice/UCaaS,SITE-03,Atlas Fiber,Firewall,2023-08-29,1250.28,Active
+CI-0114,Cloud Connectivity,SITE-09,BlueRidge Comms,Switch,2021-01-23,1248.89,Active
+CI-0115,Cloud Connectivity,SITE-03,BlueRidge Comms,Circuit,2022-11-29,1230.39,Active
+CI-0116,WAN/Circuits,SITE-12,Cascade Mobile,SBC,2023-01-20,675.25,Active
+CI-0117,WAN/Circuits,SITE-19,Meridian Networks,Circuit,2023-03-22,1003.53,Active
+CI-0118,Wireless/Mobile,SITE-02,NorthStar Telecom,Switch,2020-02-15,821.81,Active
+CI-0119,WAN/Circuits,SITE-08,Cascade Mobile,Mobile Plan,2021-06-22,978.33,Active
+CI-0120,Voice/UCaaS,SITE-20,NorthStar Telecom,Mobile Plan,2024-03-18,691.1,Active
+CI-0121,Data Center Net,SITE-07,BlueRidge Comms,Mobile Plan,2021-03-10,1162.85,Decommissioned
+CI-0122,Cloud Connectivity,SITE-03,Atlas Fiber,Mobile Plan,2021-06-23,1018.56,Decommissioned
+CI-0123,Voice/UCaaS,SITE-10,Atlas Fiber,Firewall,2021-08-03,971.69,Active
+CI-0124,Contact Center,SITE-11,Meridian Networks,Router,2020-11-15,1027.8,Decommissioned
+CI-0125,Cloud Connectivity,SITE-14,Cascade Mobile,Mobile Plan,2020-10-06,789.55,Active
+CI-0126,WAN/Circuits,SITE-07,Cascade Mobile,SBC,2021-09-16,731.0,Active
+CI-0127,Data Center Net,SITE-20,BlueRidge Comms,Mobile Plan,2024-04-22,1166.72,Active
+CI-0128,Cloud Connectivity,SITE-11,NorthStar Telecom,Firewall,2020-01-03,998.06,Active
+CI-0129,Cloud Connectivity,SITE-06,Meridian Networks,Circuit,2021-05-24,1530.38,Active
+CI-0130,Cloud Connectivity,SITE-20,Cascade Mobile,Firewall,2020-04-19,816.5,Active
+CI-0131,Cloud Connectivity,SITE-19,Atlas Fiber,Switch,2022-10-07,863.89,Decommissioned
+CI-0132,WAN/Circuits,SITE-10,NorthStar Telecom,Mobile Plan,2021-03-27,885.06,Active
+CI-0133,Cloud Connectivity,SITE-01,Cascade Mobile,Switch,2023-11-26,1108.81,Active
+CI-0134,Data Center Net,SITE-12,Atlas Fiber,Router,2022-11-19,1116.58,Active
+CI-0135,Wireless/Mobile,SITE-12,Atlas Fiber,Circuit,2023-11-11,760.29,Decommissioned
+CI-0136,Cloud Connectivity,SITE-03,BlueRidge Comms,Mobile Plan,2023-02-16,1223.17,Decommissioned
+CI-0137,WAN/Circuits,SITE-13,NorthStar Telecom,SBC,2022-02-28,706.01,Active
+CI-0138,Voice/UCaaS,SITE-17,Meridian Networks,Circuit,2024-03-29,1672.38,Decommissioned
+CI-0139,Voice/UCaaS,SITE-03,Atlas Fiber,Switch,2022-05-07,693.25,Active
+CI-0140,Contact Center,SITE-15,Atlas Fiber,Switch,2024-09-05,796.66,Active
+CI-0141,Wireless/Mobile,SITE-03,Cascade Mobile,Switch,2024-11-25,1163.28,Active
+CI-0142,Wireless/Mobile,SITE-15,NorthStar Telecom,Mobile Plan,2022-11-26,743.08,Decommissioned
+CI-0143,Voice/UCaaS,SITE-09,NorthStar Telecom,Circuit,2023-04-29,890.55,Active
+CI-0144,Contact Center,SITE-01,BlueRidge Comms,Router,2021-04-05,913.41,Active
+CI-0145,Contact Center,SITE-20,BlueRidge Comms,Router,2024-01-06,784.51,Decommissioned
+CI-0146,WAN/Circuits,SITE-04,NorthStar Telecom,Router,2023-04-23,1077.45,Decommissioned
+CI-0147,Wireless/Mobile,SITE-12,Cascade Mobile,Mobile Plan,2024-06-12,1166.34,Decommissioned
+CI-0148,Data Center Net,SITE-04,BlueRidge Comms,Mobile Plan,2021-04-25,1180.98,Decommissioned
+CI-0149,WAN/Circuits,SITE-19,NorthStar Telecom,Circuit,2023-11-18,843.77,Decommissioned
+CI-0150,Contact Center,SITE-15,NorthStar Telecom,Firewall,2022-04-26,964.44,Active
+CI-0151,Wireless/Mobile,SITE-17,BlueRidge Comms,Router,2020-11-29,786.5,Active
+CI-0152,Contact Center,SITE-09,Cascade Mobile,Router,2020-11-04,784.22,Active
+CI-0153,Wireless/Mobile,SITE-10,Atlas Fiber,Router,2022-10-08,731.59,Active
+CI-0154,Voice/UCaaS,SITE-13,BlueRidge Comms,Router,2021-07-29,1222.21,Active
+CI-0155,Cloud Connectivity,SITE-16,Meridian Networks,Switch,2020-07-02,1665.21,Active
+CI-0156,WAN/Circuits,SITE-17,Atlas Fiber,Mobile Plan,2022-02-07,1119.74,Decommissioned
+CI-0157,Cloud Connectivity,SITE-01,BlueRidge Comms,Firewall,2023-03-21,956.13,Active
+CI-0158,Cloud Connectivity,SITE-14,Meridian Networks,SBC,2021-07-28,1314.72,Active
+CI-0159,Data Center Net,SITE-03,BlueRidge Comms,Switch,2024-09-15,963.74,Active
+CI-0160,Contact Center,SITE-06,NorthStar Telecom,Circuit,2023-11-04,968.04,Active
+CI-0161,Cloud Connectivity,SITE-17,Meridian Networks,Circuit,2022-07-11,1265.28,Active
+CI-0162,Voice/UCaaS,SITE-06,BlueRidge Comms,Router,2024-08-09,713.01,Active
+CI-0163,Voice/UCaaS,SITE-16,Atlas Fiber,Router,2022-02-18,709.17,Active
+CI-0164,Voice/UCaaS,SITE-10,Cascade Mobile,Mobile Plan,2020-09-08,1229.92,Active
+CI-0165,Data Center Net,SITE-05,Cascade Mobile,Mobile Plan,2020-03-05,933.68,Decommissioned
+CI-0166,Wireless/Mobile,SITE-07,BlueRidge Comms,Mobile Plan,2024-08-15,1230.52,Active
+CI-0167,Wireless/Mobile,SITE-11,NorthStar Telecom,Firewall,2024-09-23,733.05,Active
+CI-0168,Voice/UCaaS,SITE-16,Meridian Networks,Firewall,2023-08-23,1371.0,Active
+CI-0169,WAN/Circuits,SITE-13,Atlas Fiber,Firewall,2020-07-04,760.86,Active
+CI-0170,WAN/Circuits,SITE-19,NorthStar Telecom,Switch,2021-06-12,789.51,Active
+CI-0171,WAN/Circuits,SITE-18,Atlas Fiber,SBC,2020-03-14,648.93,Active
+CI-0172,Data Center Net,SITE-16,Cascade Mobile,SBC,2020-04-02,704.94,Decommissioned
+CI-0173,Data Center Net,SITE-13,Meridian Networks,SBC,2021-03-18,1690.66,Active
+CI-0174,Data Center Net,SITE-06,Cascade Mobile,Firewall,2022-10-26,832.57,Active
+CI-0175,Voice/UCaaS,SITE-09,Atlas Fiber,Circuit,2020-04-27,1013.12,Active
+CI-0176,Data Center Net,SITE-03,NorthStar Telecom,SBC,2024-11-07,922.96,Active
+CI-0177,WAN/Circuits,SITE-08,NorthStar Telecom,Switch,2022-03-30,882.28,Active
+CI-0178,Contact Center,SITE-19,Cascade Mobile,SBC,2021-04-19,965.09,Active
+CI-0179,Cloud Connectivity,SITE-09,Atlas Fiber,Firewall,2022-07-17,747.96,Active
+CI-0180,Contact Center,SITE-03,NorthStar Telecom,Mobile Plan,2023-11-23,1252.82,Active
+CI-0181,WAN/Circuits,SITE-14,Cascade Mobile,Switch,2021-07-16,1145.53,Decommissioned
+CI-0182,Voice/UCaaS,SITE-20,NorthStar Telecom,Mobile Plan,2020-03-26,1097.22,Active
+CI-0183,Data Center Net,SITE-18,Cascade Mobile,Mobile Plan,2020-04-01,925.32,Decommissioned
+CI-0184,Voice/UCaaS,SITE-06,Cascade Mobile,Router,2024-03-13,726.31,Active
+CI-0185,Voice/UCaaS,SITE-10,NorthStar Telecom,Switch,2020-07-19,1210.02,Active
+CI-0186,WAN/Circuits,SITE-11,Cascade Mobile,Firewall,2023-02-18,845.07,Active
+CI-0187,Voice/UCaaS,SITE-05,Atlas Fiber,SBC,2021-11-23,661.57,Active
+CI-0188,Wireless/Mobile,SITE-06,Atlas Fiber,SBC,2023-10-31,845.71,Decommissioned
+CI-0189,Wireless/Mobile,SITE-05,NorthStar Telecom,Mobile Plan,2020-04-18,1130.51,Active
+CI-0190,Data Center Net,SITE-20,Meridian Networks,Switch,2024-06-04,1431.23,Active
+CI-0191,Cloud Connectivity,SITE-15,Meridian Networks,Firewall,2023-06-10,1544.24,Active
+CI-0192,Cloud Connectivity,SITE-17,BlueRidge Comms,Switch,2022-03-19,1129.99,Active
+CI-0193,Voice/UCaaS,SITE-17,NorthStar Telecom,Mobile Plan,2021-01-07,763.53,Active
+CI-0194,Contact Center,SITE-20,Atlas Fiber,Router,2024-10-24,1211.98,Active
+CI-0195,WAN/Circuits,SITE-03,Cascade Mobile,Firewall,2021-06-27,905.93,Active
+CI-0196,Voice/UCaaS,SITE-18,Atlas Fiber,Circuit,2022-06-01,1032.58,Active
+CI-0197,WAN/Circuits,SITE-02,NorthStar Telecom,Mobile Plan,2021-12-10,631.45,Active
+CI-0198,Voice/UCaaS,SITE-10,NorthStar Telecom,Switch,2021-02-18,1255.82,Decommissioned
+CI-0199,Contact Center,SITE-12,Atlas Fiber,Switch,2022-01-19,806.96,Active
+CI-0200,Voice/UCaaS,SITE-08,Meridian Networks,Firewall,2020-09-29,936.74,Active
+CI-0201,Contact Center,SITE-03,Cascade Mobile,Switch,2020-01-03,918.71,Active
+CI-0202,Voice/UCaaS,SITE-04,Atlas Fiber,Mobile Plan,2021-06-05,711.29,Active
+CI-0203,Data Center Net,SITE-17,NorthStar Telecom,Firewall,2020-07-20,725.97,Active
+CI-0204,Voice/UCaaS,SITE-07,NorthStar Telecom,Firewall,2022-01-16,1028.34,Active
+CI-0205,Wireless/Mobile,SITE-07,NorthStar Telecom,Circuit,2024-04-01,877.54,Decommissioned
+CI-0206,Data Center Net,SITE-19,NorthStar Telecom,Circuit,2020-10-19,1210.77,Decommissioned
+CI-0207,Contact Center,SITE-03,NorthStar Telecom,Switch,2020-01-03,831.07,Active
+CI-0208,Wireless/Mobile,SITE-19,Atlas Fiber,Mobile Plan,2020-07-18,1087.49,Decommissioned
+CI-0209,Data Center Net,SITE-19,Cascade Mobile,Mobile Plan,2022-07-03,920.49,Active
+CI-0210,Wireless/Mobile,SITE-12,Atlas Fiber,Firewall,2021-05-09,1045.77,Decommissioned
+CI-0211,Data Center Net,SITE-04,Atlas Fiber,Firewall,2022-05-31,1007.81,Decommissioned
+CI-0212,Data Center Net,SITE-04,Atlas Fiber,Switch,2020-02-22,927.85,Active
+CI-0213,Voice/UCaaS,SITE-06,Meridian Networks,Router,2021-08-22,1719.95,Active
+CI-0214,Data Center Net,SITE-12,Meridian Networks,Circuit,2022-01-08,1184.27,Decommissioned
+CI-0215,Wireless/Mobile,SITE-04,Atlas Fiber,Switch,2022-02-15,741.66,Active
+CI-0216,WAN/Circuits,SITE-10,Meridian Networks,Router,2022-09-19,1480.08,Decommissioned
+CI-0217,WAN/Circuits,SITE-03,NorthStar Telecom,Router,2023-11-06,1162.98,Decommissioned
+CI-0218,Voice/UCaaS,SITE-11,Cascade Mobile,Router,2022-04-21,655.36,Active
+CI-0219,Contact Center,SITE-01,Atlas Fiber,Circuit,2024-02-23,913.27,Active
+CI-0220,WAN/Circuits,SITE-15,Atlas Fiber,Firewall,2022-08-11,1192.27,Active
+CI-0221,Voice/UCaaS,SITE-02,Atlas Fiber,Mobile Plan,2021-04-13,1102.26,Active
+CI-0222,Data Center Net,SITE-04,NorthStar Telecom,SBC,2021-02-16,1254.84,Active
+CI-0223,Wireless/Mobile,SITE-04,Cascade Mobile,Switch,2021-08-03,964.79,Active
+CI-0224,Data Center Net,SITE-17,Atlas Fiber,Switch,2022-12-11,1045.8,Active
+CI-0225,Wireless/Mobile,SITE-02,Cascade Mobile,Router,2021-03-12,820.56,Active
+CI-0226,Data Center Net,SITE-09,Atlas Fiber,Circuit,2024-07-03,1226.95,Active
+CI-0227,Cloud Connectivity,SITE-12,Atlas Fiber,Firewall,2022-05-13,860.79,Active
+CI-0228,Cloud Connectivity,SITE-11,BlueRidge Comms,Firewall,2024-04-02,1095.26,Active
+CI-0229,Wireless/Mobile,SITE-14,NorthStar Telecom,Circuit,2023-05-14,883.98,Active
+CI-0230,Voice/UCaaS,SITE-17,BlueRidge Comms,Switch,2021-08-23,983.95,Decommissioned
+CI-0231,Contact Center,SITE-08,Meridian Networks,Router,2021-02-14,1516.85,Active
+CI-0232,WAN/Circuits,SITE-17,NorthStar Telecom,Router,2023-09-01,950.63,Active
+CI-0233,Data Center Net,SITE-07,NorthStar Telecom,SBC,2021-08-18,1201.46,Active
+CI-0234,Voice/UCaaS,SITE-20,Cascade Mobile,Firewall,2021-03-20,894.16,Active
+CI-0235,Data Center Net,SITE-11,BlueRidge Comms,Firewall,2024-08-01,1037.66,Active
+CI-0236,Cloud Connectivity,SITE-15,BlueRidge Comms,SBC,2022-05-18,845.69,Active
+CI-0237,Voice/UCaaS,SITE-18,Cascade Mobile,Mobile Plan,2020-03-28,887.14,Active
+CI-0238,Wireless/Mobile,SITE-16,BlueRidge Comms,SBC,2022-06-09,907.23,Active
+CI-0239,Cloud Connectivity,SITE-18,Cascade Mobile,Firewall,2022-04-09,709.26,Active
+CI-0240,WAN/Circuits,SITE-11,NorthStar Telecom,Mobile Plan,2024-04-04,687.79,Active
+CI-0241,Cloud Connectivity,SITE-01,Atlas Fiber,Switch,2023-07-04,1050.52,Decommissioned
+CI-0242,WAN/Circuits,SITE-10,BlueRidge Comms,Mobile Plan,2020-12-10,1042.98,Active
+CI-0243,Cloud Connectivity,SITE-04,NorthStar Telecom,SBC,2020-09-27,1047.63,Active
+CI-0244,Cloud Connectivity,SITE-18,Atlas Fiber,Firewall,2022-12-22,642.45,Active
+CI-0245,WAN/Circuits,SITE-05,Cascade Mobile,Mobile Plan,2020-03-26,835.72,Active
+CI-0246,Data Center Net,SITE-05,NorthStar Telecom,Firewall,2021-07-28,754.62,Active
+CI-0247,Voice/UCaaS,SITE-05,NorthStar Telecom,SBC,2020-09-05,1120.24,Active
+CI-0248,Data Center Net,SITE-13,NorthStar Telecom,Router,2020-02-07,1172.2,Active
+CI-0249,WAN/Circuits,SITE-12,Meridian Networks,Mobile Plan,2024-07-11,1099.57,Active
+CI-0250,Wireless/Mobile,SITE-19,NorthStar Telecom,Firewall,2020-06-10,1050.74,Active
+CI-0251,Voice/UCaaS,SITE-09,Cascade Mobile,SBC,2020-01-17,711.5,Active
+CI-0252,Wireless/Mobile,SITE-06,BlueRidge Comms,Switch,2024-08-06,803.35,Decommissioned
+CI-0253,Wireless/Mobile,SITE-01,Atlas Fiber,Mobile Plan,2020-12-04,717.35,Active
+CI-0254,Cloud Connectivity,SITE-01,Cascade Mobile,Circuit,2024-01-09,808.62,Active
+CI-0255,WAN/Circuits,SITE-08,Cascade Mobile,Circuit,2020-02-26,1055.08,Active
+CI-0256,Data Center Net,SITE-19,BlueRidge Comms,Firewall,2020-10-03,1203.51,Decommissioned
+CI-0257,WAN/Circuits,SITE-11,NorthStar Telecom,SBC,2020-07-18,757.59,Decommissioned
+CI-0258,Wireless/Mobile,SITE-18,NorthStar Telecom,SBC,2023-06-25,971.51,Active
+CI-0259,Cloud Connectivity,SITE-03,Cascade Mobile,Switch,2023-01-21,1071.88,Decommissioned
+CI-0260,Data Center Net,SITE-02,NorthStar Telecom,Firewall,2022-05-05,1230.34,Active
+CI-0261,Wireless/Mobile,SITE-17,NorthStar Telecom,Firewall,2021-03-10,1014.34,Active
+CI-0262,Wireless/Mobile,SITE-03,Meridian Networks,Mobile Plan,2020-06-08,1107.0,Decommissioned
+CI-0263,Contact Center,SITE-02,Atlas Fiber,Firewall,2022-10-21,1024.05,Active
+CI-0264,Contact Center,SITE-09,BlueRidge Comms,Switch,2021-02-19,831.91,Active
+CI-0265,Cloud Connectivity,SITE-19,Cascade Mobile,Mobile Plan,2022-11-28,1244.96,Active
+CI-0266,Voice/UCaaS,SITE-14,BlueRidge Comms,Circuit,2023-05-22,881.8,Active
+CI-0267,Voice/UCaaS,SITE-02,NorthStar Telecom,Mobile Plan,2024-03-08,1061.82,Active
+CI-0268,Cloud Connectivity,SITE-17,Meridian Networks,Circuit,2022-06-08,902.49,Active
+CI-0269,Cloud Connectivity,SITE-17,NorthStar Telecom,Router,2020-01-09,882.04,Active
+CI-0270,Wireless/Mobile,SITE-17,Cascade Mobile,SBC,2021-05-20,1181.32,Active
+CI-0271,WAN/Circuits,SITE-19,NorthStar Telecom,SBC,2024-03-16,1014.44,Decommissioned
+CI-0272,WAN/Circuits,SITE-05,Meridian Networks,Mobile Plan,2022-08-17,1273.56,Decommissioned
+CI-0273,Contact Center,SITE-20,Atlas Fiber,SBC,2023-01-19,1219.64,Decommissioned
+CI-0274,Voice/UCaaS,SITE-07,BlueRidge Comms,Firewall,2022-04-04,1168.01,Active
+CI-0275,Voice/UCaaS,SITE-17,BlueRidge Comms,Switch,2020-10-19,833.0,Decommissioned
+CI-0276,Voice/UCaaS,SITE-12,BlueRidge Comms,Circuit,2024-06-02,973.07,Active
+CI-0277,Data Center Net,SITE-16,Cascade Mobile,Circuit,2023-10-23,938.59,Active
+CI-0278,WAN/Circuits,SITE-13,Meridian Networks,Router,2024-11-26,1439.6,Active
+CI-0279,WAN/Circuits,SITE-13,Cascade Mobile,Circuit,2024-03-19,840.49,Decommissioned
+CI-0280,Wireless/Mobile,SITE-13,Atlas Fiber,Firewall,2021-06-08,783.85,Active
+CI-0281,Voice/UCaaS,SITE-16,BlueRidge Comms,SBC,2021-04-02,1204.98,Active
+CI-0282,Data Center Net,SITE-15,BlueRidge Comms,Mobile Plan,2021-03-23,1212.04,Active
+CI-0283,Voice/UCaaS,SITE-03,NorthStar Telecom,Switch,2024-07-11,1161.29,Active
+CI-0284,Voice/UCaaS,SITE-17,Meridian Networks,Mobile Plan,2022-09-29,1744.78,Active
+CI-0285,Contact Center,SITE-11,Atlas Fiber,Mobile Plan,2022-03-29,1099.34,Active
+CI-0286,WAN/Circuits,SITE-07,BlueRidge Comms,Mobile Plan,2024-10-08,1111.74,Active
+CI-0287,Cloud Connectivity,SITE-11,Meridian Networks,Switch,2022-12-22,1554.6,Decommissioned
+CI-0288,Cloud Connectivity,SITE-20,BlueRidge Comms,Router,2024-06-24,932.78,Active
+CI-0289,Voice/UCaaS,SITE-18,BlueRidge Comms,Mobile Plan,2024-11-07,917.56,Active
+CI-0290,Data Center Net,SITE-17,BlueRidge Comms,Router,2020-05-23,781.34,Decommissioned
+CI-0291,Wireless/Mobile,SITE-10,Cascade Mobile,Switch,2021-10-12,1036.24,Decommissioned
+CI-0292,Contact Center,SITE-16,Meridian Networks,Circuit,2023-08-14,1137.18,Decommissioned
+CI-0293,Wireless/Mobile,SITE-08,Cascade Mobile,SBC,2024-01-03,792.42,Active
+CI-0294,Cloud Connectivity,SITE-14,BlueRidge Comms,Firewall,2020-09-24,999.16,Decommissioned
+CI-0295,Cloud Connectivity,SITE-13,Atlas Fiber,Circuit,2021-07-27,888.29,Decommissioned
+CI-0296,Contact Center,SITE-05,NorthStar Telecom,Router,2022-09-13,767.88,Active
+CI-0297,Voice/UCaaS,SITE-06,NorthStar Telecom,Firewall,2023-12-09,1144.12,Active
+CI-0298,Wireless/Mobile,SITE-02,BlueRidge Comms,Firewall,2020-07-22,1172.16,Active
+CI-0299,WAN/Circuits,SITE-03,BlueRidge Comms,SBC,2022-12-17,735.65,Active
+CI-0300,Voice/UCaaS,SITE-09,Cascade Mobile,Router,2021-06-17,634.73,Active
+CI-0301,Data Center Net,SITE-10,BlueRidge Comms,Mobile Plan,2021-01-24,841.76,Decommissioned
+CI-0302,WAN/Circuits,SITE-04,Atlas Fiber,Switch,2022-07-16,1132.43,Decommissioned
+CI-0303,Contact Center,SITE-09,BlueRidge Comms,SBC,2022-01-15,1158.68,Active
+CI-0304,Cloud Connectivity,SITE-13,NorthStar Telecom,Router,2023-02-18,717.15,Decommissioned
+CI-0305,WAN/Circuits,SITE-05,NorthStar Telecom,Circuit,2021-07-25,1117.83,Active
+CI-0306,Wireless/Mobile,SITE-07,Atlas Fiber,Circuit,2024-01-21,702.89,Decommissioned
+CI-0307,Cloud Connectivity,SITE-08,NorthStar Telecom,Switch,2020-05-20,875.74,Active
+CI-0308,Wireless/Mobile,SITE-11,Atlas Fiber,Mobile Plan,2024-03-31,1259.12,Active
+CI-0309,WAN/Circuits,SITE-08,Meridian Networks,Circuit,2020-02-23,1051.87,Active
+CI-0310,Cloud Connectivity,SITE-15,NorthStar Telecom,Switch,2023-08-17,727.0,Active
+CI-0311,Data Center Net,SITE-07,Meridian Networks,Circuit,2021-09-15,1254.91,Active
+CI-0312,WAN/Circuits,SITE-09,Cascade Mobile,Mobile Plan,2021-11-21,1020.39,Active
+CI-0313,Wireless/Mobile,SITE-08,BlueRidge Comms,SBC,2020-02-04,1217.73,Active
+CI-0314,Wireless/Mobile,SITE-04,Cascade Mobile,SBC,2023-06-17,1247.92,Decommissioned
+CI-0315,Cloud Connectivity,SITE-14,Cascade Mobile,SBC,2020-10-24,673.87,Active
+CI-0316,Data Center Net,SITE-05,BlueRidge Comms,Firewall,2023-04-01,716.94,Decommissioned
+CI-0317,Data Center Net,SITE-06,Cascade Mobile,SBC,2023-07-29,1128.16,Decommissioned
+CI-0318,Contact Center,SITE-16,Atlas Fiber,Circuit,2024-03-01,800.5,Active
+CI-0319,Data Center Net,SITE-19,BlueRidge Comms,Mobile Plan,2023-06-28,1187.45,Active
