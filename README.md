@@ -3,6 +3,8 @@
 
 ![ci](https://img.shields.io/badge/ci-passing-brightgreen) ![python](https://img.shields.io/badge/python-3.11-blue) ![data](https://img.shields.io/badge/data-synthetic-orange) ![license](https://img.shields.io/badge/license-MIT-black)
 
+**Live dashboard:** [Explore the interactive Tableau Public dashboard](https://public.tableau.com/views/EnterpriseTelecomFinOps/EnterpriseTelecomFinOps)
+
 **In plain terms:** This is a sample project that helps a large company keep its technology and telecom spending under control. It automatically checks vendor bills for overcharges, fairly splits shared costs across the business teams that use each service, warns when a service looks likely to fail before it does, and forecasts next quarter's spend. Everything runs on realistic made-up (synthetic) data.
 
 An end-to-end analytics platform that manages the **operational and financial risk** of a simulated enterprise **technology/telecom** estate. It audits vendor invoices, charges service costs back to business units, monitors **service-area success metrics for deviations**, and forecasts cost and risk. Built with **SQL, Python, R, DuckDB (Snowflake-style), Tableau + Power BI, and a CI/CD pipeline**.
