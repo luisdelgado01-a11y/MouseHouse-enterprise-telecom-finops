@@ -7,7 +7,7 @@
 
 **In plain terms:** This is a sample project that helps a large company keep its technology and telecom spending under control. It automatically checks vendor bills for overcharges, fairly splits shared costs across the business teams that use each service, warns when a service looks likely to fail before it does, and forecasts next quarter's spend. Everything runs on realistic made-up (synthetic) data.
 
-An end-to-end analytics platform that manages the **operational and financial risk** of a simulated enterprise **technology/telecom** estate. It audits vendor invoices, charges service costs back to business units, monitors **service-area success metrics for deviations**, and forecasts cost and risk. Built with **SQL, Python, R, DuckDB (Snowflake-style), Tableau + Power BI, and a CI/CD pipeline**.
+An end-to-end analytics platform that manages the **operational and financial risk** of a simulated enterprise **technology/telecom** estate. It audits vendor invoices, charges service costs back to business units, monitors **service-area success metrics for deviations**, and forecasts cost and risk. Built with **SQL, Python, R, DuckDB (Snowflake-style), Tableau, and a CI/CD pipeline**.
 
 > **All data is synthetic and reproducible** (seeded generator). It contains deliberately planted anomalies (billing errors, a costly vendor, a degrading service area) for the analytics to discover.
 
@@ -50,7 +50,7 @@ An end-to-end analytics platform that manages the **operational and financial ri
 | Success **metrics by service area** + monitor **deviations** | `fct_service_area_monthly` + SPC control-limit deviation detection |
 | **Automation** of financial processes | `make all` runs generate → transform → analyze; GitHub Actions CI on every push |
 | Communicate **risks/recommendations** to leadership | `reports/` executive summary + memo template |
-| Preferred stack: Excel, ServiceNow, SAP, Tableau, SQL, R, Power BI, Coupa, Python, CI/CD | each modeled as a real component (see Architecture) |
+| Preferred stack: Excel, ServiceNow, SAP, Tableau, SQL, R, Coupa, Python, CI/CD | each modeled as a real component (see Architecture) |
 
 ---
 
@@ -59,8 +59,8 @@ An end-to-end analytics platform that manages the **operational and financial ri
 ```
 ServiceNow (incidents, CMDB) ┐
 ITOM telemetry               │
-Telecom carrier invoices     ├─► DuckDB / SQL marts ─► analysis (Python/R) ─► Tableau + Power BI
-SAP GL (cost centers)        │      (models/)            (analysis/)            (dashboards/)
+Telecom carrier invoices     ├─► DuckDB / SQL marts ─► analysis (Python/R) ─► charts + Tableau
+SAP GL (cost centers)        │      (models/)            (analysis/)            (assets/, Tableau)
 Coupa POs / budget           ┘                                │
                                                               └─► reports/ (exec one-pager, memos)
 ```
@@ -80,7 +80,6 @@ src/            data generator, ETL runner (pandas + DuckDB)
 models/         Snowflake-style SQL transformation marts
 analysis/       descriptive/diagnostic analysis + charts (scorecard SPC)
 data/           raw (generated) + processed marts
-dashboards/     Tableau + Power BI (screenshots / workbooks)
 reports/        executive one-pager + ad-hoc memo template
 docs/           data dictionary, KPI governance, architecture
 tests/          pytest data-quality + logic checks (run in CI)
@@ -92,6 +91,6 @@ tests/          pytest data-quality + logic checks (run in CI)
 - [x] Diagnostic cost-driver bridge + chargeback/showback
 - [x] Predictive spend forecast + Monte Carlo band + SLA-breach risk model
 - [x] AI invoice-anomaly triage + eval harness (LLM-swappable)
-- [ ] Tableau Public link + Power BI dashboard
+- [x] Tableau Public dashboard (published, linked at top)
 
 *Built by Luis A. Delgado. LinkedIn: [linkedin.com/in/luis-a-delgado-jr](https://linkedin.com/in/luis-a-delgado-jr). Synthetic data only; not affiliated with any employer.*
